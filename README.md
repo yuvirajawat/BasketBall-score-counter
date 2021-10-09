@@ -1,6 +1,8 @@
 # BasketBall-score-counter
-Developed an android app that enables user to count basketball match score and reset it for the next match .
-Tech: Java, XML,  Android UI design principles,functional programming, VIewGroups.
+Developed an android app that enables user to count basketball match score and reset it for the next match.
+
+Tech Used: 
+Java, XML,  Android UI design principles,functional programming, VIewGroups.
 
 1. Min SDK Version API 21
 2. Target SDK 31
